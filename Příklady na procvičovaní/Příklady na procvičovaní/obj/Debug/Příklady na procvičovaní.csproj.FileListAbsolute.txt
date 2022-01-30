@@ -1,0 +1,10 @@
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\bin\Debug\Příklady na procvičovaní.exe.config
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\bin\Debug\Příklady na procvičovaní.exe
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\bin\Debug\Příklady na procvičovaní.pdb
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\obj\Debug\Příklady na procvičovaní.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\obj\Debug\Příklady_na_procvičovaní.Form1.resources
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\obj\Debug\Příklady_na_procvičovaní.Properties.Resources.resources
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\obj\Debug\Příklady na procvičovaní.csproj.GenerateResource.cache
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\obj\Debug\Příklady na procvičovaní.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\obj\Debug\Příklady na procvičovaní.exe
+D:\Antonín Štolfa\Programování\C#\Příklady na procvičovaní\Příklady na procvičovaní\obj\Debug\Příklady na procvičovaní.pdb
